@@ -1,2 +1,4 @@
 # In-comming
-show what's incoming 
+Show what's incoming 
+
+The wish version of PhpMyAdmin.
